@@ -1,0 +1,7 @@
+The MICE Event Viewer Software
+
+An event for the reconstructed data of the Muon Ionization Cooling Experiment (MICE)
+See mice.iit.edu
+
+Dependencies: MAUS 1.1.0 or greater, Qt5 or greater
+
