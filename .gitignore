@@ -1,0 +1,5 @@
+*.o
+moc*.*
+ui*.*
+Makefile
+EventViewer
